@@ -1,3 +1,3 @@
-# web-platform-enmazc
+# noise-and-color
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-enmazc)
